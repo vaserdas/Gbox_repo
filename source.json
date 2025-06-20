@@ -1,0 +1,47 @@
+{
+  "name": "My Custom Repo",
+  "apps": [
+    {
+      "name": "TikTok++",
+      "bundleID": "com.zhiliaoapp.musically",
+      "version": "32.1.0",
+      "icon": "https://cdn-icons-png.flaticon.com/512/3046/3046120.png",
+      "url": "https://example.com/ipas/tiktok++.ipa"
+    },
+    {
+      "name": "YouTube++",
+      "bundleID": "com.google.ios.youtube",
+      "version": "18.24.1",
+      "icon": "https://cdn-icons-png.flaticon.com/512/1384/1384060.png",
+      "url": "https://example.com/ipas/youtube++.ipa"
+    },
+    {
+      "name": "Instagram++",
+      "bundleID": "com.burbn.instagram",
+      "version": "292.0",
+      "icon": "https://cdn-icons-png.flaticon.com/512/2111/2111463.png",
+      "url": "https://example.com/ipas/instagram++.ipa"
+    },
+    {
+      "name": "Viber",
+      "bundleID": "com.viber",
+      "version": "20.0",
+      "icon": "https://cdn-icons-png.flaticon.com/512/3670/3670051.png",
+      "url": "https://example.com/ipas/viber.ipa"
+    },
+    {
+      "name": "Telegram",
+      "bundleID": "ph.telegra.Telegraph",
+      "version": "10.0",
+      "icon": "https://cdn-icons-png.flaticon.com/512/2111/2111646.png",
+      "url": "https://example.com/ipas/telegram.ipa"
+    },
+    {
+      "name": "Spotify++",
+      "bundleID": "com.spotify.client",
+      "version": "8.8.98",
+      "icon": "https://cdn-icons-png.flaticon.com/512/174/174872.png",
+      "url": "https://example.com/ipas/spotify++.ipa"
+    }
+  ]
+}
